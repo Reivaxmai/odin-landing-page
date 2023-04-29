@@ -3,21 +3,20 @@ body {
 }
 
 .header {
-    position: fixed;
-    top: 0;
-    left: 0;
     background-color: #0B2447;
-    width: 100vw;
 }
 
 #navbar {
-    display: flex;
     justify-content: space-between;
     background-color: #0B2447;
-    margin: 0;
+}
+
+.main {
+    display: flex;
     align-items: center;
     max-width: 1500px;
     margin: 0 auto;
+    border: 2px solid black;
 }
 
 ul {
@@ -42,4 +41,15 @@ ul {
 a {
     text-decoration: none;
     color: #A5D7E8;
+}
+
+.land {
+    display: flex;
+
+    border: 1px solid red;
+}
+
+img {
+    width: 400px;
+    height: auto;
 }
