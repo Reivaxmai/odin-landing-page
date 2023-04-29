@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: #0B2447;
+    margin: 0;
+    align-items: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 24px;
+}
+
+.navlinks {
+    padding: 8px 24px;
+}
+
+.logo {
+    padding: 8px 24px;
+    font-family: 'Bruno Ace SC', serif;
+    color: #AFD3E2;
+    font-size: 2em;
+}
+
+a {
+    text-decoration: none;
+    color: #AFD3E2;
+}
