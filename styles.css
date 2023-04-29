@@ -76,4 +76,5 @@ img {
 
 .text p {
     color: rgba(165, 215, 232, 0.8);
+    padding-left: 8px;
 }
