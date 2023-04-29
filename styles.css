@@ -13,11 +13,11 @@ body {
 #navbar {
     justify-content: space-between;
     background-color: #0B2447;
+    align-items: center;
 }
 
 .main {
     display: flex;
-    align-items: center;
     max-width: 1500px;
     margin: 0 auto;
     border: 2px solid black;
@@ -51,11 +51,29 @@ a {
     padding: 16px;
     border: 1px solid red;
     justify-content: space-evenly;
-    flex: 1;
+    flex: 0;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    height: 100vh;
+    padding-top: 24vh;
 }
 
 img {
     width: 600px;
     height: auto;
     flex: 0 1 auto;
+}
+
+.text {
+    border: 1px solid green;
+}
+
+.text h1 {
+    color: #A5D7E8;
+    font-size: 1.6em;
+    font-family: 'Bruno Ace SC', serif;
+}
+
+.text p {
+    color: rgba(165, 215, 232, 0.8);
 }
