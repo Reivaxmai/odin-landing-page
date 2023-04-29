@@ -16,3 +16,5 @@ Green Turtle Photo by Richard Segal: https://www.pexels.com/photo/black-and-whit
 Orka Photo by Pixabay: https://www.pexels.com/photo/two-killer-whales-luring-on-lake-289324/
 
 Shark Photo by Pixabay: https://www.pexels.com/photo/two-killer-whales-luring-on-lake-289324/
+
+color pallete https://colorhunt.co/palette/0b244719376d576cbca5d7e8
