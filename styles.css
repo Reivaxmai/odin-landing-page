@@ -55,7 +55,6 @@ a {
     flex-wrap: wrap;
     align-items: flex-start;
     height: 100vh;
-    padding-top: 24vh;
 }
 
 .spotlight {
@@ -78,10 +77,18 @@ img {
     color: #A5D7E8;
     font-size: 2vmax;
     font-family: 'Bruno Ace SC', serif;
+    max-width: 600px;
 }
 
 .text {
     color: rgba(165, 215, 232, 0.8);
     padding-left: 8px;
     font-size: 1.2vmax;
+    font-family: sans-serif;
+}
+
+.space {
+    flex-grow: 1;
+    height: 12vh;
+    width: 100%;
 }
