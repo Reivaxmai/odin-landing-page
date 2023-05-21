@@ -58,23 +58,30 @@ a {
     padding-top: 24vh;
 }
 
-img {
+.spotlight {
     width: 600px;
     height: auto;
     flex: 0 1 auto;
+    object-fit: contain;
+}
+
+img {
+    width: 100%;
+    height: auto;
 }
 
 .text {
     border: 1px solid green;
 }
 
-.text h1 {
+.headline {
     color: #A5D7E8;
-    font-size: 1.6em;
+    font-size: 2vmax;
     font-family: 'Bruno Ace SC', serif;
 }
 
-.text p {
+.text {
     color: rgba(165, 215, 232, 0.8);
     padding-left: 8px;
+    font-size: 1.2vmax;
 }
