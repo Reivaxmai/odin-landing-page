@@ -18,3 +18,9 @@ Orka Photo by Pixabay: https://www.pexels.com/photo/two-killer-whales-luring-on-
 Shark Photo by Pixabay: https://www.pexels.com/photo/two-killer-whales-luring-on-lake-289324/
 
 color pallete https://colorhunt.co/palette/0b244719376d576cbca5d7e8
+
+Purple turtle Photo by Tom Fisk: https://www.pexels.com/photo/underwater-photography-of-brown-sea-turtle-668867/
+
+Green turtle Photo by Peter Ravnholt: https://www.pexels.com/photo/a-turtle-swimming-underwater-5398758/
+
+Red turtle Photo by Peter Ravnholt: https://www.pexels.com/photo/a-turtle-swimming-underwater-5398758/
