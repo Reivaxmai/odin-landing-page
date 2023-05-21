@@ -6,7 +6,7 @@ body {
     margin: 0;
 }
 
-.content {
+.dark {
     background-color: #0B2447;
 }
 
@@ -16,7 +16,7 @@ body {
     align-items: center;
 }
 
-.main {
+.container {
     display: flex;
     max-width: 1500px;
     margin: 0 auto;
