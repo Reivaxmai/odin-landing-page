@@ -98,3 +98,19 @@ img {
 .gallery {
     flex-direction: column;
 }
+
+.box-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.square {
+    width: 200px;
+    height: 200px;
+}
+
+.box img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
