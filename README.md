@@ -1,6 +1,7 @@
 # odin-landing-page
 This is an assignment for The Odin Project.
 
+Color palette used: https://colorhunt.co/palette/0b244719376d576cbca5d7e8
 Photo Credits:
 
 Sea horse photo by <a href="https://unsplash.com/it/@davidclode?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">David Clode</a> on <a href="https://unsplash.com/images/animals/whale?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
