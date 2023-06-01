@@ -132,4 +132,11 @@ img {
     text-align: center;
     font-size: 1vmax;
 }
-  
+
+.light-blue {
+    background-color: #A5D7E8;
+}
+
+.quote, .quoter {
+    background: #DDE6ED;
+}
