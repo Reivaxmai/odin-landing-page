@@ -139,4 +139,14 @@ img {
 
 .quote, .quoter {
     background: #DDE6ED;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.quote {
+    font-size: 2vmax;
+}
+
+.quoter {
+    font-size: 1.6vmax;
 }
