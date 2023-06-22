@@ -135,8 +135,30 @@ img {
 
 .light-blue {
     background-color: #A5D7E8;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
-.quote, .quoter {
+.quote-box {
+    flex-direction: column;
+    justify-content: center;
+    max-width: 1000px;
     background: #DDE6ED;
+    padding: 1vmax;
+    border-radius: 10px;
+}
+
+.quote {
+    font-size: 2vmax;
+    margin: auto;
+    font-style: italic;
+}
+
+.quoter {
+    font-size: 1.6vmax;
+    align-self: flex-end;
+    margin-left: auto;
+    font-weight: bold;
 }
